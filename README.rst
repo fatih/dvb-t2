@@ -8,6 +8,9 @@ Modulation (BICM)** processes.  All code is written on Matlab 2010. Be reminded
 that the codebase is just for academic purposes. It doesn't reflect any working
 real-case state.
 
+
+
+
 Transmitter implementation
 --------------------------
 
